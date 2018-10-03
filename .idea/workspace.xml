@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="02343db8-5294-40b6-9787-7cc949ba4404" name="Default Changelist" comment="" />
+    <list default="true" id="02343db8-5294-40b6-9787-7cc949ba4404" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,12 +39,14 @@
         <counts>
           <entry key="gitignore" value="61" />
           <entry key="html" value="22" />
+          <entry key="md" value="22" />
           <entry key="py" value="117" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="HTML" value="22" />
+          <entry key="Markdown" value="22" />
           <entry key="PLAIN_TEXT" value="61" />
           <entry key="Python" value="117" />
         </counts>
@@ -106,7 +110,9 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor />
+              <first_editor>
+                <caret column="15" selection-start-column="15" selection-end-column="15" />
+              </first_editor>
               <second_editor />
             </state>
           </provider>
@@ -172,6 +178,7 @@
         <option value="$PROJECT_DIR$/notes/templates/note.html" />
         <option value="$PROJECT_DIR$/notes/forms.py" />
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -240,6 +247,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="954" y="34" width="958" height="1004" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24919786" />
@@ -368,7 +376,9 @@
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor />
+          <first_editor>
+            <caret column="15" selection-start-column="15" selection-end-column="15" />
+          </first_editor>
           <second_editor />
         </state>
       </provider>
